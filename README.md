@@ -1,5 +1,10 @@
 # HTML-Forms-Tables
-In this exercise tables and forms, Semantic HTML, and HTML5 media were introduced. HTML5 allows us to be a little more precise in pairing our content with our elements. Semantic HTML tags don't alter your page in any specific way, but make more sense to the developer and reader of the HTML as to what they do. Here are some semantic HTML5 tags
+In this exercise tables and forms, Semantic HTML, and HTML5 media were introduced. 
+
+## Semantic HTMLL
+
+Using these new elements to structure your HTML in such a way that the element name is descriptive of the content inside of it.
+. HTML5 allows us to be a little more precise in pairing our content with our elements. Semantic HTML tags don't alter your page in any specific way, but make more sense to the developer and reader of the HTML as to what they do. Here are some semantic HTML5 tags
 - header - used to display the header information on a page
 - nav - used to display a navbar for navigating a page
 - section - used to display a section of the page
@@ -7,8 +12,6 @@ In this exercise tables and forms, Semantic HTML, and HTML5 media were introduce
 - aside - used to display content aside from main content (on the side)
 - footer - used to display the footer information on a page
 
-## Semantic HTMLL
-Using these new elements to structure your HTML in such a way that the element name is descriptive of the content inside of it.
 
 This is what my webpage came out to finishing the exercise.
 
